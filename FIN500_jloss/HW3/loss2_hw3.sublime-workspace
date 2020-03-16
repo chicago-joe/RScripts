@@ -1,0 +1,511 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"equ",
+				"equity.names.xs"
+			],
+			[
+				"comm",
+				"commodity.rets"
+			],
+			[
+				"roi.p",
+				"ROI.plugin.quadprog"
+			],
+			[
+				"in",
+				"install\tinstall r package"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"remove",
+				"SublimeBookmarks: Remove A Bookmark"
+			],
+			[
+				"show boo",
+				"SublimeBookmarks: Show Bookmarks Only In Current File "
+			],
+			[
+				"book",
+				"SublimeBookmarks: Remove A Bookmark"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"repl",
+				"SublimeREPL: GDB"
+			],
+			[
+				"python",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"ari",
+				"Arithmetic"
+			],
+			[
+				"",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"depen",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rlint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"r",
+				"Set Syntax: R"
+			],
+			[
+				"build",
+				"Build: Cancel"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"DIS",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"a file",
+				"A File Icon: Clean Patches"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"clean",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"depend",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"lint",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"anaconda",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"anaconda lit",
+				"Anaconda: Show error list"
+			],
+			[
+				"paca",
+				"Package Control: List Packages"
+			],
+			[
+				"view pack",
+				"View Package File"
+			],
+			[
+				"lang",
+				"EasyClangComplete: Settings"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimerepl",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"mark",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"clang",
+				"Package Control: Enable Package"
+			],
+			[
+				"snipet for\t",
+				"Snippet: For Loop"
+			],
+			[
+				"snip",
+				"Snippet: class"
+			],
+			[
+				"reload",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"local",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"satis",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"enter",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"sync",
+				"Sync Settings: Download"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 364.0,
+		"history":
+		[
+			"from random",
+			"python",
+			"gdb",
+			"gd",
+			"subl",
+			"cmd -u",
+			"cmd",
+			"help",
+			"?",
+			"py",
+			"conda",
+			"python"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/FIN500"
+	],
+	"file_history":
+	[
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/FIN500/HW3/loss2_ch9-exercises.r",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/FIN500/HW3/loss2_ch12-exercises.r",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/FIN500/HW3/loss2_ch14-exercises.r",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/FIN500/HW3/loss2_ch15-exercises.r",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/FIN500/HW3/loss2_ch18-exercises.r",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/FIN500/HW3/loss2_ch22-default-intensity-models.r",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/FIN500/HW3/ch9.r",
+		"/C/Users/jloss/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/jloss/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/FIN500/HW3/loss2_hw3.sublime-project",
+		"/C/Users/jloss/OneDrive/Desktop/.Rhistory hw2.txt",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/FIN500/HW3/hw2.examples/ch7-kurtosisplots.r",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/FIN500/HW3/hw2.examples/ch8-kernel-density-estimate.r",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/FIN500/HW3/hw2.examples/ch8-examples-section-7.r",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/FIN500/HW3/hw2.examples/ch8-edgeworth-expansion.r",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/FIN500/HW2/ch7-kurtosisplots.r",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/FIN500/HW2/ch8-examples-section-7.r",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/FIN500/FIN500_sourcecode/ch5-exercises.r",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/FIN500/FIN500_sourcecode/ch4-exercises.r",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/FIN500/FIN500_sourcecode/ch2-exercises.r",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/FIN500/FIN500_sourcecode/ch3-exercises.r",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/FIN500/HW3/hw2.examples/ch8-var-vs-es-plot.r",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/FIN500/HW3/ch9-two-risky-assets.r",
+		"/C/Users/jloss/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/jloss/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/jloss/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/jloss/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/IE523/prog10/memoized_options_AM.cpp",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/FIN500/HW3/hw3.sublime-project",
+		"/C/Users/jloss/AppData/Roaming/Sublime Text 3/Packages/sublimelint/SublimeLint.sublime-settings",
+		"/C/Users/jloss/AppData/Roaming/Sublime Text 3/Packages/EasyClangComplete/EasyClangComplete.sublime-settings",
+		"/C/Users/jloss/AppData/Roaming/Sublime Text 3/Packages/User/EasyClangComplete.sublime-settings",
+		"/C/Users/jloss/AppData/Local/Temp/is-ANECC.tmp/editor-test.txt",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/UIUC Documents/IE598/Module 6/IE598_F18_HW6/loss2_IE598_F18_HW6.py",
+		"/C/Users/jloss/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/jloss/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/jloss/AppData/Roaming/Sublime Text 3/Packages/Pylinter/Pylinter.sublime-settings",
+		"/C/Users/jloss/AppData/Roaming/Sublime Text 3/Packages/User/Pylinter.sublime-settings",
+		"/C/TWS API/samples/Cpp/TestCppClient/AvailableAlgoParams.cpp",
+		"/C/TWS API/samples/Cpp/TestCppClient/AccountSummaryTags.h",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/IE523/prog7/prog7.cpp",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/IE523/prog7/prog7.h",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/IE523/prog7/pa7.h",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/IE523/prog7/pa7.cpp",
+		"/C/Users/jloss/OneDrive/Desktop/m2.cpp",
+		"/C/Users/jloss/OneDrive/Desktop/m2wip.h",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/IE523/prog7/get_uniform.cpp",
+		"/C/Users/jloss/OneDrive/Desktop/cpplint",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/IE523/prog7/prog7-Twerkstation.h",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/IE523/classroom code samples/main(4).cpp",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/IE523/classroom code samples/main(13).cpp",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/IE523/classroom code samples/main(14).cpp",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/IE523/classroom code samples/main(3).cpp",
+		"/C/Users/jloss/OneDrive - University of Illinois - Urbana/IE523/classroom code samples/main(4)(1).cpp",
+		"/C/Users/jloss/AppData/Roaming/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
+		"/C/Users/jloss/AppData/Roaming/Sublime Text 3/Packages/Sync Settings/SyncSettings.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ltcorpbond",
+			"ltcorp",
+			"returns",
+			"2012/",
+			"lm",
+			"factor",
+			"excess",
+			"estox",
+			"smi",
+			"\", ",
+			"\\",
+			"library_path"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"2014/2018-01-01",
+			"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 104.0
+	},
+	"output.exec":
+	{
+		"height": 123.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/R/R.sublime-build",
+	"project": "loss2_hw3.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 550.222222222,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 418.222222222
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 184.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
